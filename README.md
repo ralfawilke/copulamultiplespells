@@ -1,0 +1,1 @@
+This archive contains simulated data and Stata sample code for the paper "Competing Risks Regression with Dependent Multiple Spells: Monte Carlo Evidence and an Application to Maternity Leave", authored by Lipowski, C., Lo, S. M., Shi, S. & Wilke, R. A..
